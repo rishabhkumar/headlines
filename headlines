@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Hola! This is Rishabh's installation guide to Headlines Software"
+echo "BEWARE : Only Mac Users proceed! No windows Noob!"
+read -p "Press [Enter] key to start installation..."
